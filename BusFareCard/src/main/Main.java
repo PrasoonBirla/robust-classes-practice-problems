@@ -34,6 +34,7 @@ public class Main {
             card = new BusFareCard(userName, userAge, userBalance);
         } catch (Exception e) {
             System.out.println(e.getMessage());
+
             System.exit(-1);
         }
 
