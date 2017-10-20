@@ -1,6 +1,6 @@
 package model.exceptions;
 
-public abstract class NotEnoughMoneyException extends Exception {
+public class NotEnoughMoneyException extends Exception {
 
     public NotEnoughMoneyException() { }
 
